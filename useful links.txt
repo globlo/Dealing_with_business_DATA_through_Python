@@ -1,0 +1,12 @@
+
+
+install textblob
+https://textblob.readthedocs.io/en/dev/install.html
+
+$ pip install -U textblob
+$ python -m textblob.download_corpora
+
+i.e. textblob - japanese
+
+https://qiita.com/yasutaka_ono/items/6a565c333995d43918ff
+
