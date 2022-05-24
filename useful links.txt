@@ -10,3 +10,5 @@ i.e. textblob - japanese
 
 https://qiita.com/yasutaka_ono/items/6a565c333995d43918ff
 
+Regression Analysis - Javanese (回帰分析)　
+https://udemy.benesse.co.jp/data-science/data-analysis/regression-analysis.html
